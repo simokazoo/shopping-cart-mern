@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/simokazoo/shopping-cart-mern.git/static/css/main.34de6062.chunk.css",
+    "main.js": "/simokazoo/shopping-cart-mern.git/static/js/main.53779d23.chunk.js",
+    "main.js.map": "/simokazoo/shopping-cart-mern.git/static/js/main.53779d23.chunk.js.map",
+    "runtime~main.js": "/simokazoo/shopping-cart-mern.git/static/js/runtime~main.8b39f79b.js",
+    "runtime~main.js.map": "/simokazoo/shopping-cart-mern.git/static/js/runtime~main.8b39f79b.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/simokazoo/shopping-cart-mern.git/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.35ff6705.chunk.js": "/simokazoo/shopping-cart-mern.git/static/js/2.35ff6705.chunk.js",
+    "static/js/2.35ff6705.chunk.js.map": "/simokazoo/shopping-cart-mern.git/static/js/2.35ff6705.chunk.js.map",
+    "index.html": "/simokazoo/shopping-cart-mern.git/index.html",
+    "precache-manifest.27d10d7302f379927b218e41ae41efe9.js": "/simokazoo/shopping-cart-mern.git/precache-manifest.27d10d7302f379927b218e41ae41efe9.js",
+    "service-worker.js": "/simokazoo/shopping-cart-mern.git/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/simokazoo/shopping-cart-mern.git/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/simokazoo/shopping-cart-mern.git/static/css/main.34de6062.chunk.css.map"
+  }
+}
